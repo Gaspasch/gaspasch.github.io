@@ -1,0 +1,32 @@
+/* Nouveau fichier CSS spécifique à la page des albums */
+
+.albums-section {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+  }
+  
+  .album {
+    width: 30%; /* Trois albums par ligne (ajuster selon vos besoins) */
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .album img {
+    width: 50%; /* La largeur de l'image est maintenant égale à la largeur du conteneur */
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }  
+ 
+  .album p {
+    margin-top: 10px;
+  }
+
+
+
+
+
+  
+  

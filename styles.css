@@ -1,0 +1,112 @@
+/* Styles pour le header (en-tête) */
+
+/* Styles pour le header (en-tête) */
+header {
+  background-color: #3498db; /* Couleur de fond du header */
+  color: #fff; /* Couleur du texte */
+  text-align: center;
+  padding: 1em 0;
+  width: 100%; /* Le header prend toute la largeur de la page */
+}
+
+/* Styles pour la liste de navigation */
+nav ul {
+  list-style: none; /* Supprime les puces de la liste */
+  margin: 0; /* Supprime la marge par défaut */
+  padding: 0; /* Supprime le padding par défaut */
+}
+
+/* Styles pour chaque élément de la liste de navigation */
+nav ul li {
+  display: inline; /* Affiche les éléments en ligne (côte à côte) */
+  margin-right: 20px; /* Marge à droite entre les éléments */
+}
+
+/* Styles pour les liens de navigation */
+nav a {
+  text-decoration: none; /* Supprime la décoration par défaut des liens */
+  color: #ffffff; /* Couleur du texte du lien non visité */
+  font-weight: bold; /* Texte en gras */
+}
+
+/* Style pour le lien actif dans la navigation */
+nav a.active {
+  color: #ff0; /* Couleur du texte du lien actif (jaune) */
+  border-bottom: 2px solid #ff0; /* Souligné jaune pour le lien actif */
+  /* Note: Le lien actif aura une couleur jaune et un souligné */
+}
+
+
+
+
+
+
+/* Styles pour la section principale */
+section {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  font-size: 18px;
+}
+
+/* Styles pour la zone de description */
+.description {
+  margin-top: 20px;
+  border-top: 1px solid #ccc; /* Bordure supérieure */
+  padding-top: 20px;
+}
+
+.description h3 {
+  color: #333; /* Couleur du titre de la description */
+}
+
+
+
+/*Styles pour les images de Bigflo et Oli
+/* Styles pour le header (en-tête) */
+
+/* Styles pour le header (en-tête) */
+header {
+background-color: #3498db; /* Couleur de fond du header */
+color: #fff; /* Couleur du texte */
+text-align: center;
+padding: 1em 0;
+width: 100%; /* Le header prend toute la largeur de la page */
+}
+
+/* Styles pour la liste de navigation */
+nav ul {
+list-style: none; /* Supprime les puces de la liste */
+margin: 0; /* Supprime la marge par défaut */
+padding: 0; /* Supprime le padding par défaut */
+}
+
+/* Styles pour chaque élément de la liste de navigation */
+nav ul li {
+display: inline; /* Affiche les éléments en ligne (côte à côte) */
+margin-right: 20px; /* Marge à droite entre les éléments */
+}
+
+/* Styles pour les liens de navigation */
+nav a {
+text-decoration: none; /* Supprime la décoration par défaut des liens */
+color: #ffffff; /* Couleur du texte du lien non visité */
+font-weight: bold; /* Texte en gras */
+}
+
+/* Style pour le lien actif dans la navigation */
+nav a.active {
+color: #ff0; /* Couleur du texte du lien actif (jaune) */
+border-bottom: 2px solid #ff0; /* Souligné jaune pour le lien actif */
+/* Note: Le lien actif aura une couleur jaune et un souligné */
+}
+
+
+
+
+
+
+/* Styles pour la section principale */
+.image-container{
+text-align: center;
+}
